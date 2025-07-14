@@ -8,27 +8,27 @@
 
 ---
 
-## 🚀 Features
+## Features
 
-### 👤 Authentication & Authorization
+### Authentication & Authorization
 - JWT-based login & registration
 - Role-based access control (Candidate / Recruiter / Admin)
 - Secure route protection with tokens and cookies
 
-### 📂 File Uploads
+### File Uploads
 - Profile picture and resume upload with [Cloudinary](https://cloudinary.com/)
 - Multer + Data URI integration for smooth file handling
 
-### 📝 User Profiles
+### User Profiles
 - Add skills, bio, resume, and profile photo
 - Update profile information with real-time validation
 
-### 📃 Job Management
+### Job Management
 - Recruiters can create, update, and delete job posts
 - Candidates can view, search, and apply for jobs
 - Application tracking per user
 
-### 🌐 Frontend (React)
+### Frontend (React)
 - Responsive UI built with React 
 - Login/Register pages with input validation
 - Dashboard views based on user role
